@@ -59,3 +59,7 @@ void application_main( Os::AppMainParameter& value )
 {
     example_app.init( value );
 }
+void test(){
+
+printf("test.h");
+}
