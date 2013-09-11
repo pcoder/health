@@ -1,3 +1,0 @@
-/*
-This file is called testing.h and is created on GitHub.
-*/
